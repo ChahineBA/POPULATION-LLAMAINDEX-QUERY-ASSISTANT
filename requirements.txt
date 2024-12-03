@@ -1,0 +1,6 @@
+langfuse==2.55.0
+llama_index==0.12.2
+nest_asyncio==1.6.0
+pandas==2.2.3
+python-dotenv==1.0.1
+streamlit==1.40.2
