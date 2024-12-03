@@ -1,7 +1,7 @@
 # Population LlamaIndex Query Assistant 🚀
 
 Welcome to the **Population LlamaIndex Query Assistant**! 🌍 This project uses **LlamaIndex** (formerly GPT Index) along with **MistralAI** and **Langfuse** to provide a powerful query assistant for population and country-related data, leveraging natural language processing for seamless interaction. 🧠💡
-![Interface Image](Screenshot 2024-12-03 155123.png)
+![Interface Image](interface.png)
 
 ### Features ✨
 - 🗺️ Query population data from a CSV file.
