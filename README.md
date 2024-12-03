@@ -5,7 +5,7 @@ Welcome to the **Population LlamaIndex Query Assistant**! 🌍 This project uses
 ![Interface Image](interface.png)
 
 ### Langfuse Dashboard 📊📈
-Here’s a video explaining the Langfuse dashboard:
+Here’s the Langfuse dashboard:
 
 ![Langfuse Video](langfuse.gif)
 
