@@ -4,10 +4,10 @@ Welcome to the **Population LlamaIndex Query Assistant**! 🌍 This project uses
 ### Interface Picture 🖼️
 ![Interface Image](interface.png)
 
-### Langfuse Dashboard Video 🎥
+### Langfuse Dashboard 📊📈
 Here’s a video explaining the Langfuse dashboard:
 
-![Langfuse Video](langfuse.mp4)
+![Langfuse Video](langfuse.gif)
 
 ### Features ✨
 - 🗺️ Query population data from a CSV file.
