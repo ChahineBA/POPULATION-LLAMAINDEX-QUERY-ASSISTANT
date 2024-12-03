@@ -7,7 +7,7 @@ Welcome to the **Population LlamaIndex Query Assistant**! 🌍 This project uses
 ### Langfuse Dashboard Video 🎥
 Here’s a video explaining the Langfuse dashboard:
 
-![Langfuse Video](path/to/your/video.mp4)
+![Langfuse Video](langfuse.mp4)
 
 ### Features ✨
 - 🗺️ Query population data from a CSV file.
