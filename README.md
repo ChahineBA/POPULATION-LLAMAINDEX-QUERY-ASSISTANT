@@ -38,4 +38,6 @@ To run this project locally, follow these steps:
    ```
 ### Notes 📌
 - Ensure you have the correct API keys in your .env file for Mistral and Langfuse.
+- - [MistralAI API Key](https://mistral.ai/docs/) 
+  - [Langfuse API Key](https://docs.langfuse.com/) 
 - The project is designed to provide interactive querying via Streamlit, making it easy to explore data about populations and countries.
